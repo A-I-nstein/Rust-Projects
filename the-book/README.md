@@ -3,8 +3,10 @@ Programs developed while reading "[The Rust Programming Language](https://doc.ru
 
 ## Projects
 - Number guessing game
+- Temperature conversion between Fahrenheit and Celsius
+- Generate nth Fibonacci number
 
 ## How to run
 - Move into "the book" directory.
 - run command - cargo run --example {program name}
-    - ex. cargo run --example 0_guessing_game 
+    - ex. cargo run --example guessing_game 
