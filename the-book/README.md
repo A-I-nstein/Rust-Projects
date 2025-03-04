@@ -1,7 +1,7 @@
 # the-book
 Programs developed while reading "[The Rust Programming Language](https://doc.rust-lang.org/stable/book/title-page.html)"
 
-## Projects
+## Programs
 - Number guessing game
 - Temperature conversion between Fahrenheit and Celsius
 - Generate nth Fibonacci number
